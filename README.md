@@ -21,7 +21,7 @@ gen_ball.py: Generation of granular balls
 
 Pin_GBTSVM.py: Solving the optimization problem
 
-The codes are not optimized for efficiency. The codes have been cleaned for better readability and documented and are not exactly the same as used in our paper. For the detailed experimental setup, please follow the paper. We have re-run and checked the codes only in a few datasets, so if you find any bugs/issues, please write to A. Quadir (mscphd2207141002@iiti.ac.in).
+For a comprehensive understanding of the experimental setup, please refer to the paper. Should you encounter any bugs or issues, feel free to contact A. Quadir at mscphd2207141002@iiti.ac.in.
 
 
 
